@@ -32,6 +32,7 @@
  Author Josh Campbell
 
  v1.0 - 12/12/2017
+ v1.1 - 12/13/2017  -Documentation changes only
 
  This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
  */
