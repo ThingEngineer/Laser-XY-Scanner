@@ -1,6 +1,6 @@
 # Laser XY Scanner - BOM
 
-This is just one of many source for the parts or something similar listed here.
+This is just one of many sources for the parts or something similar listed here.
 
 * Gikfun USB Nano V3.0 ATmega328 CH340G 5V 16M Micro-controller board For Arduino 
 http://a.co/0FXSMdG
