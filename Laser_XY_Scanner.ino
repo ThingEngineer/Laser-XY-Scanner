@@ -20,6 +20,7 @@
 
  The circuit:
   * Arduino Nano
+    * Monitors small lever switches for X and Y home detection (minimum travel)
     * Controls ULN2003APG high−current darlington drivers
       * Drives 28BYJ-48 5V Stepper Motors
   * 12V TTL 1W/1.6W/2W/445nm/450nm Laser Diode LD Driver
