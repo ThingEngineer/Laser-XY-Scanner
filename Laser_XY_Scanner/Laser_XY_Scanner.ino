@@ -14,6 +14,7 @@
 
   GitHub Project: https://github.com/ThingEngineer/Laser-XY-Scanner
   Thingiverse files for CHICK: https://www.thingiverse.com/thing:2710048
+  Instructable: https://www.instructables.com/id/Low-Cost-DIY-Stepper-Motor-Laser-XY-Scanner-Cutter/
 
   Functions:
   - Draw, cut and or point with a laser with X and Y control.
