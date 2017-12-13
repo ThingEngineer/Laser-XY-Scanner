@@ -4,7 +4,7 @@ Low Cost DIY stepper motor Laser XY Scanner, Cutter, or Engraver
 Laser XY Scanner is an open source stepper motor based scanner.
 The components used are low cost and very accessible. This type
 of laser scanner is not extremely fast but it can still be used in a
-variety of applications. Draw, cut and or point with a laser with X and Y control.
+variety of applications. Draw, cut and or point with laser X and Y control.
 
 The circuit:
   * Arduino Nano
