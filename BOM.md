@@ -1,5 +1,3 @@
-![Laser XY Scanner](https://github.com/ThingEngineer/Laser-XY-Scanner/blob/master/laser-xy-scanner-featured.png)
-
 # Laser XY Scanner - BOM
 
 This is just one of many sources for the parts or something similar listed here.

@@ -1,3 +1,5 @@
+![Laser XY Scanner](https://github.com/ThingEngineer/Laser-XY-Scanner/blob/master/laser-xy-scanner-featured.png)
+
 # Laser XY Scanner
 Low Cost DIY 3D Printed stepper motor Laser XY Scanner - Draw, Cut, Engrave, or Scan
 
