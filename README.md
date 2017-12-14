@@ -7,13 +7,14 @@ Laser XY Scanner is an open source stepper motor based scanner.
 The components used are low cost and very accessible. This type
 of laser scanner is not extremely fast but it can still be used in a
 variety of applications. Draw, cut and or point with laser X and Y control.
-
+    
 The circuit:
   * Arduino Nano
+    * Monitors small lever switches for X and Y home detection (minimum travel)
     * Controls ULN2003APG high−current darlington drivers
       * Drives 28BYJ-48 5V Stepper Motors
   * 12V TTL 1W/1.6W/2W/445nm/450nm Laser Diode LD Driver
-    * Drives 2W 445nm M140 Blue Laser Diode w/ AixiZ aluminum mount and heat sink for 12mm modules
+  * Drives 2W 445nm M140 Blue Laser Diode w/ AixiZ aluminum mount and heat sink for 12mm modules
 
 Instructable:
 https://www.instructables.com/id/Low-Cost-DIY-Stepper-Motor-Laser-XY-Scanner-Cutter/
